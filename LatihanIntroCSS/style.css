@@ -1,0 +1,13 @@
+td {
+    height: 50px;
+    border: 1px solid blue;
+    border-style: dashed;
+}
+
+tr {
+    background-color: #ff474c;
+}
+
+table {
+    border: 1px solid black;
+}
